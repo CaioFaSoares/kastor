@@ -47,7 +47,7 @@ swift run kastor ls -b true
 
 ## help
 
->_ ~ kastor help
+> ~ swift run kastor help
 
 ```
 type     | function       | value    | description
