@@ -10,7 +10,7 @@ Works by sending a shell command using the _"swift-commands"_ package.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/CaioFaSoares/kastor.git
 ```
 
 Go to the project directory
