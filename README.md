@@ -3,6 +3,7 @@
 
 Beavering your dock. Built on Swift while at the Apple Developer Academy.
 Works by sending a shell command using the _"swift-commands"_ package.
+CBL Documentation -> https://almondine-blob-12f.notion.site/Kastor-a-dock-customization-tool-8dc00833bad44049a437001fcbfd628a
 
 
 ## Run Locally
@@ -58,3 +59,4 @@ ds       | dockSize       | integer  | Resize the dock to the inputed integer si
 ls       | lockSize       | bool     | Locks the ability to resize the dock
 ib       | iconBounce     | bool     | Disables or enables icon bounce
 ```
+
