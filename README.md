@@ -22,7 +22,7 @@ Or, if you want, clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd kastor
 ```
 
 Install dependencies
