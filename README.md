@@ -7,8 +7,13 @@ CBL Documentation -> https://almondine-blob-12f.notion.site/Kastor-a-dock-custom
 
 
 ## Run Locally
+Using brew, tap into the repo and install it
+```bash
+  brew tap CaioFaSoares/kastor
+  brew install kastor
+```
 
-Clone the project
+Or, if you want, clone the project
 
 ```bash
   git clone https://github.com/CaioFaSoares/kastor.git
@@ -17,7 +22,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd kastor
 ```
 
 Install dependencies
